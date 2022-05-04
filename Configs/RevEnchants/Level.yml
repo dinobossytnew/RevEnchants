@@ -5,6 +5,6 @@ LevelUpEvent:
   '1':
     ShardSlots: 1
     EnchantSlots: 1
-    Commands:
-    - bc %Player% has level up to %Level%
+    Commands: #spanish version.
+    - bc %Player% ha subido de nivel hasta %Level% 
     - give %Player% stone %Level%
